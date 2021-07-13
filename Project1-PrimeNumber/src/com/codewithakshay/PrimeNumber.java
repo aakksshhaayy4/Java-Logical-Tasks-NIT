@@ -2,7 +2,9 @@ package com.codewithakshay;
 
 public class PrimeNumber {
 
-	
+	/*
+	 * This program is to check whether the given number is prime number or not
+	 */
 
 	public static void main(String[] args) {
 
