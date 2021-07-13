@@ -3,6 +3,8 @@ package com.codewithakshay;
 public class Pyramid {
 
 	/*
+	 * Pyramid program
+	 * forward and backward
 	 
 	 * 
 	 * * 
