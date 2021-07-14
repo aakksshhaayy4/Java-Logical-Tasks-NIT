@@ -1,6 +1,10 @@
 package com.codewithakshay;
 
 public class PrimeNumbersFrom1ToN {
+	
+	/*
+	 * Prime Numbers from 1 to N
+	 */
 
 	public static void main(String[] args) {
 		
